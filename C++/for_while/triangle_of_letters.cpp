@@ -3,6 +3,7 @@ using namespace std;
 // Objective: When the user inputs a lower-case letter,
 // the code will output a right-justified right triangle
 // containing letters in an increasing order.
+
 // Example:
 // User inputs: d
 // Output:
